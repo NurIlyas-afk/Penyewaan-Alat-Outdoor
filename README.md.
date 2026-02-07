@@ -1,0 +1,19 @@
+# 🏔️ SIPAO - Sistem Penyewaan Alat Outdoor
+
+Aplikasi manajemen inventaris dan penyewaan alat outdoor berbasis Java Desktop (Swing) dengan integrasi database MySQL.
+
+ Fitur Utama
+- Sistem Login: Akses aman admin menggunakan username dan password kustom.
+- Manajemen Alat (CRUD): Tambah, Lihat, dan Hapus data alat secara real-time.
+- Pencatatan Nama Pembeli: Fitur input nama penyewa yang tersimpan otomatis di database.
+
+Teknologi & Library
+- Bahasa: Java (JDK terbaru)
+- Database: MySQL Server
+- Driver: `mysql-connector-j-9.6.0.jar`
+
+Cara Menjalankan
+1. Clone repository ini.
+2. Impor database `db_sipao` di MySQL.
+3. Tambahkan driver MySQL Connector ke dalam Libraries project di NetBeans.
+4. Jalankan file `view/LoginForm.java`.
