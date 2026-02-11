@@ -17,3 +17,9 @@ Cara Menjalankan
 2. Impor database `db_sipao` di MySQL.
 3. Tambahkan driver MySQL Connector ke dalam Libraries project di NetBeans.
 4. Jalankan file `view/LoginForm.java`.
+
+Dokumentasi E-Book Resmi
+Proyek ini telah didokumentasikan secara lengkap dalam bentuk E-Book profesional yang diterbitkan di platform **Webiot**.
+* **Link E-Book:** https://ebook.webiot.id/ebooks/sistem-penyewaan-alat-outdoor-sipao-berbasis-java-swing-dan-mysql
+
+© 2026 - Nur Ilyas
